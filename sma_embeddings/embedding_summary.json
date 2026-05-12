@@ -1,0 +1,14 @@
+{
+  "checkpoint_path": "best_winery_smagnn.pt",
+  "num_wineries": 50,
+  "num_pois": 31084,
+  "embedding_dim": 32,
+  "outputs": [
+    "winery_embeddings.npy",
+    "poi_embeddings.npy",
+    "raw_winery_embeddings.npy",
+    "raw_poi_embeddings.npy",
+    "winery_embedding_table.csv",
+    "poi_embedding_table.csv"
+  ]
+}

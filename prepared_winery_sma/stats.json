@@ -1,0 +1,13 @@
+{
+  "num_rows_after_cleaning": 149765,
+  "num_unique_visitors": 25072,
+  "num_winery_nodes": 50,
+  "num_other_nodes": 31084,
+  "num_positive_edges": 56777,
+  "num_negative_edges": 56777,
+  "num_train_edges": 79487,
+  "num_val_edges": 17033,
+  "num_test_edges": 17034,
+  "date_min": "2019-01-01 00:00:00",
+  "date_max": "2024-12-31 00:00:00"
+}
